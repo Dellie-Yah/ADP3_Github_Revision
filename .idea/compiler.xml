@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ADP3_Github_Revision" />
+        <module name="ADP3_REVISION_GITHUB" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ADP3_Github_Revision" target="1.5" />
+      <module name="ADP3_REVISION_GITHUB" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
