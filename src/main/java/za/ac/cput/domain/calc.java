@@ -1,10 +1,10 @@
 package za.ac.cput.domain;
 import java.util.Scanner;
 /*
-    calc.java
-    Simple calculator
-    @Author: Siphiwe Edson Chauque
-    Date: 06 Feb 2021
+   *  calc.java
+   *  Simple calculator
+   *  @Author: Siphiwe Edson Chauque
+   *  Date: 06 Feb 2021
 */
 
 public class calc
